@@ -11,8 +11,5 @@ public class file_menu : MonoBehaviour
         Application.Quit();
     }
 
-    void Update()
-    {
-        
-    }
+  
 }
